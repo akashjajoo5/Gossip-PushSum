@@ -35,5 +35,9 @@ The Gossip algorithm involves the following:
 * RandHoneycomb and Honeycomb do not vary in performance by a lot as only 1 random node is connected to the topology.
 
 ## Graphs
-[![Screenshot-26.png](https://i.postimg.cc/3xv8bTfc/gossip.jpg)
-[![Screenshot-27.png](https://i.postimg.cc/8Cg120qP/pushsum.jpg)
+<p align="center">
+  <img width="536" height="446" src="https://i.postimg.cc/3xv8bTfc/gossip.jpg">
+</p>
+<p align="center">
+  <img width="536" height="446" src="https://i.postimg.cc/8Cg120qP/pushsum.jpg">
+</p>
